@@ -1,0 +1,15 @@
+C:\Users\Ruslana Zubareva\Desktop\3_Rucksack\3_Rucksack\obj\Debug\net6.0\3_Rucksack.csproj.AssemblyReference.cache
+C:\Users\Ruslana Zubareva\Desktop\3_Rucksack\3_Rucksack\obj\Debug\net6.0\3_Rucksack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruslana Zubareva\Desktop\3_Rucksack\3_Rucksack\obj\Debug\net6.0\3_Rucksack.AssemblyInfoInputs.cache
+C:\Users\Ruslana Zubareva\Desktop\3_Rucksack\3_Rucksack\obj\Debug\net6.0\3_Rucksack.AssemblyInfo.cs
+C:\Users\Ruslana Zubareva\Desktop\3_Rucksack\3_Rucksack\obj\Debug\net6.0\3_Rucksack.csproj.CoreCompileInputs.cache
+C:\Users\Ruslana Zubareva\Desktop\3_Rucksack\3_Rucksack\bin\Debug\net6.0\3_Rucksack.exe
+C:\Users\Ruslana Zubareva\Desktop\3_Rucksack\3_Rucksack\bin\Debug\net6.0\3_Rucksack.deps.json
+C:\Users\Ruslana Zubareva\Desktop\3_Rucksack\3_Rucksack\bin\Debug\net6.0\3_Rucksack.runtimeconfig.json
+C:\Users\Ruslana Zubareva\Desktop\3_Rucksack\3_Rucksack\bin\Debug\net6.0\3_Rucksack.dll
+C:\Users\Ruslana Zubareva\Desktop\3_Rucksack\3_Rucksack\bin\Debug\net6.0\3_Rucksack.pdb
+C:\Users\Ruslana Zubareva\Desktop\3_Rucksack\3_Rucksack\obj\Debug\net6.0\3_Rucksack.dll
+C:\Users\Ruslana Zubareva\Desktop\3_Rucksack\3_Rucksack\obj\Debug\net6.0\refint\3_Rucksack.dll
+C:\Users\Ruslana Zubareva\Desktop\3_Rucksack\3_Rucksack\obj\Debug\net6.0\3_Rucksack.pdb
+C:\Users\Ruslana Zubareva\Desktop\3_Rucksack\3_Rucksack\obj\Debug\net6.0\3_Rucksack.genruntimeconfig.cache
+C:\Users\Ruslana Zubareva\Desktop\3_Rucksack\3_Rucksack\obj\Debug\net6.0\ref\3_Rucksack.dll

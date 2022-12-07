@@ -1,0 +1,15 @@
+C:\Users\Ruslana Zubareva\Desktop\4_CampCleanup\4_CampCleanup\bin\Debug\net6.0\4_CampCleanup.exe
+C:\Users\Ruslana Zubareva\Desktop\4_CampCleanup\4_CampCleanup\bin\Debug\net6.0\4_CampCleanup.deps.json
+C:\Users\Ruslana Zubareva\Desktop\4_CampCleanup\4_CampCleanup\bin\Debug\net6.0\4_CampCleanup.runtimeconfig.json
+C:\Users\Ruslana Zubareva\Desktop\4_CampCleanup\4_CampCleanup\bin\Debug\net6.0\4_CampCleanup.dll
+C:\Users\Ruslana Zubareva\Desktop\4_CampCleanup\4_CampCleanup\bin\Debug\net6.0\4_CampCleanup.pdb
+C:\Users\Ruslana Zubareva\Desktop\4_CampCleanup\4_CampCleanup\obj\Debug\net6.0\4_CampCleanup.csproj.AssemblyReference.cache
+C:\Users\Ruslana Zubareva\Desktop\4_CampCleanup\4_CampCleanup\obj\Debug\net6.0\4_CampCleanup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruslana Zubareva\Desktop\4_CampCleanup\4_CampCleanup\obj\Debug\net6.0\4_CampCleanup.AssemblyInfoInputs.cache
+C:\Users\Ruslana Zubareva\Desktop\4_CampCleanup\4_CampCleanup\obj\Debug\net6.0\4_CampCleanup.AssemblyInfo.cs
+C:\Users\Ruslana Zubareva\Desktop\4_CampCleanup\4_CampCleanup\obj\Debug\net6.0\4_CampCleanup.csproj.CoreCompileInputs.cache
+C:\Users\Ruslana Zubareva\Desktop\4_CampCleanup\4_CampCleanup\obj\Debug\net6.0\4_CampCleanup.dll
+C:\Users\Ruslana Zubareva\Desktop\4_CampCleanup\4_CampCleanup\obj\Debug\net6.0\refint\4_CampCleanup.dll
+C:\Users\Ruslana Zubareva\Desktop\4_CampCleanup\4_CampCleanup\obj\Debug\net6.0\4_CampCleanup.pdb
+C:\Users\Ruslana Zubareva\Desktop\4_CampCleanup\4_CampCleanup\obj\Debug\net6.0\4_CampCleanup.genruntimeconfig.cache
+C:\Users\Ruslana Zubareva\Desktop\4_CampCleanup\4_CampCleanup\obj\Debug\net6.0\ref\4_CampCleanup.dll

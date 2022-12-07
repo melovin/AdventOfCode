@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Rucksack", "3_Rucksack\3_Rucksack.csproj", "{4F36BC6E-07D2-4868-BB61-26B8CB458822}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F36BC6E-07D2-4868-BB61-26B8CB458822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F36BC6E-07D2-4868-BB61-26B8CB458822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F36BC6E-07D2-4868-BB61-26B8CB458822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F36BC6E-07D2-4868-BB61-26B8CB458822}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48B2009E-EC73-4446-9265-88CD09FB2AA6}
+	EndGlobalSection
+EndGlobal
